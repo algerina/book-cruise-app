@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2022-06-11
+  end_date: 2022-06-11
+  cost: 9.99
+  city: MyString
+
+two:
+  start_date: 2022-06-11
+  end_date: 2022-06-11
+  cost: 9.99
+  city: MyString
